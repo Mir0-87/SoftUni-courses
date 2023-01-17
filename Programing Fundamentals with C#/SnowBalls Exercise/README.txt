@@ -16,7 +16,7 @@ Input
 Output
 •	As output, you must print the highest calculated snowballValue, by the formula, specified above. 
 •	The output format is: 
-                                                        {snowballSnow} : {snowballTime} = {snowballValue} ({snowballQuality})
+                                           {snowballSnow} : {snowballTime} = {snowballValue} ({snowballQuality})
 Constraints
 •	The number of snowballs (N) will be an integer in the range [0…100].
 •	The snowballSnow is an integer in the range [0…1000].
